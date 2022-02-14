@@ -1,12 +1,14 @@
-![logo](_media/icon.svg)
+![logo](_media/logo.png)
 
-# docsify <small>3.5</small>
+# EMP说明文档 <small>1.0</small>
 
-> 一个神奇的文档网站生成器。
+> 对EMP相关模块，进行说明，主要包括项目管理、商机管理、合同管理
+> 人事管理、流程管理等进行说明。主要从以下几个方面进行说明：
+- 运维方面。包括错误排查、日志分析等
+- 代码方面。各个模块的主要代码
+- 数据库方面。各个模块的主要库表
+- 流程引擎方面。流程图、流程页面等
+- 实现页面、授权流程。
+- 其他方便。模块依赖关系、打包常见问题等
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README.md)
