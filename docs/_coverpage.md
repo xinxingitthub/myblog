@@ -11,4 +11,4 @@
 - 实现页面、授权流程。
 - 其他方便。模块依赖关系、打包常见问题等
 
-[Get Started](README.md)
+[Get Started](start.md)
